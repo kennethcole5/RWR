@@ -1,10 +1,17 @@
-// Author ----- Ken Cole
+// ----- Author ----- 
+//	Ken Cole
+// 	3/23/2022
 //
-// Description ------ A Back-end web program. This server is built with Express.js, a framework for Node.js.
-//			 	Includes 3 endpoints for clients:
-//					1) GET /emr
-//			 		2) GET /emr/id
-//			  		3) POST /emr
+//	 (˙ ͜ʟ˙)
+// ------------------
+//
+// ------------------------------------- Description --------------------------------------------
+// 	A Back-end web program. This server is built with Express.js, a framework for Node.js.
+//		Includes 3 endpoints for clients:
+//			1) GET /emr
+//			2) GET /emr/id
+//			3) POST /emr
+// -----------------------------------------------------------------------------------------------
 //
 // ----- Resources ------
 // Express.js Docs ---- https://expressjs.com/en/api.html#app.post.method ----
